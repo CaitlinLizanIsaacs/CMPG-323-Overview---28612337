@@ -1,2 +1,4 @@
 # CMPG-323-Overview---28612337
-CMPG 323 student showcasing her work for the projects done in the second semester
+
+Agile and Scrum repository will be created to keep track of all work in project 1
+
