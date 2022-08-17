@@ -12,10 +12,13 @@ Well five repositories will be in existence for this module, namely:
 - CMPG-323-Testing & RPA repository: Project 4
 
 ## How will the project be integrated with the repository? Provide a diagram.
+The project will be integrated with the repository by 
 
 ## Explain branching strategy to be used within each project.
 
 ## Explain use of a .gitgnore file within each project.
+.gitgnore file for each project will consist of an ignored file. When we start coding with Visual studio and .NET Core we will receive a .gitgnore file with each project indicating what to ignore within the project folder. This will be rooted be rooted at our various project repos.
 
 ## Explain the storage of credentials and sensitive information.
+Credentials and sensitive information will be cached in git.
 
