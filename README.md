@@ -13,6 +13,18 @@ Well five repositories will be in existence for this module, namely:
 
 ## How will the project be integrated with the repository? Provide a diagram.
 The project and the repository will be integrated in following way:
+---------------
+   PROJECT
+---------------
+      |
+      |
+      |
+      |
+      |
+      |
+---------------
+  REPOSITORY
+---------------
 
 
 ## Explain branching strategy to be used within each project.
