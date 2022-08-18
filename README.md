@@ -16,7 +16,7 @@ The project and the repository will be integrated in following way:
 
 
 ## Explain branching strategy to be used within each project.
-Each project will have the exact same branching strategy which will be the simple Github Flow branching strategy.
+Each project will have the exact same branching strategy which will be the simple Github Flow branching strategy. Which will include everything stemming from the main branch and distributed to adjacent branches that will be created by me, commits will be made directly to the main branch and furthermore adjoining branches will follow.
 
 ## Explain use of a .gitgnore file within each project.
 .gitgnore file for each project will consist of an ignored file. When we start coding with Visual studio and .NET Core we will receive a .gitgnore file with each project indicating what to ignore within the project folder. This will be rooted be rooted at our various project repos.
