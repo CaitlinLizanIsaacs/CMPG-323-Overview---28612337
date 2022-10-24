@@ -10,6 +10,8 @@ Well five repositories will be in existence for this module, namely:
 - CMPG-323-API Development repository: Project 2
 - CMPG-323-Standards & Patterns repository: Project 3
 - CMPG-323-Testing & RPA repository: Project 4
+      Testing and RPA focuses on collecting data from web applications to access if it passess all tests to work and how its suppose to work 
+- CMPG-323-Repporting & Monitoring: Project 5 
 
 ## How will the project be integrated with the repository? Provide a diagram.
 The project and the repository will be integrated in following way:
