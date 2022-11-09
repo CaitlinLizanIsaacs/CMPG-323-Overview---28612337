@@ -7,8 +7,11 @@ This Repository counts as Project 1, to create an effective time managment sched
 
 Well five repositories will be in existence for this module, namely:
 - CMPG-323-Overview reposiory, Agile & Scrum: Project 1
+This project allowed me to develop a time management skill in such a sense that it helped me understand why it is being used in the corporate world.
 - CMPG-323-API Development repository: Project 2
+My first API was a very humbling learning experience
 - CMPG-323-Standards & Patterns repository: Project 3
+Finding different ways to code and making code reusuable 
 - CMPG-323-Testing & RPA repository: Project 4
       Testing and RPA focuses on collecting data from web applications to access if it passess all tests to work and how its suppose to work 
 - CMPG-323-Repporting & Monitoring: Project 5 
