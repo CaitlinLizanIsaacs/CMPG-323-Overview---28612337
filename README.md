@@ -15,6 +15,7 @@ Finding different ways to code and making code reusuable
 - CMPG-323-Testing & RPA repository: Project 4
       Testing and RPA focuses on collecting data from web applications to access if it passess all tests to work and how its suppose to work 
 - CMPG-323-Repporting & Monitoring: Project 5 
+      Project 5 is based on Data Visualization, we took data and made a professional looking report based on the devices. Reporting and Monitoring is an analytical           part of this module, which really focuses on gathering statistics on devices.
 
 ## How will the project be integrated with the repository? Provide a diagram.
 The project and the repository will be integrated in following way:
